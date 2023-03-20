@@ -1,3 +1,1 @@
-Rua: XXXXX N° XX
-
-Bairro: XXXXX 
+Experiência: Estudante 
