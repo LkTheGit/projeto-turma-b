@@ -1,5 +1,3 @@
-RG: XX.XXX.XXX-X
+Rua: XXXXX N° XX
 
-
-
-CPF: XXX.XXX.XXX.XX
+Bairro: XXXXX 
