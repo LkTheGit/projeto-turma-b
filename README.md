@@ -1,2 +1,5 @@
-RG: XX.XXX.XXX-0
+RG: XX.XXX.XXX-X
+
+---
+
 CPF: XXX.XXX.XXX.XX
