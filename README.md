@@ -1,7 +1,14 @@
 ---
-#LUCAS SIMÕES DA COSTA
+LUCAS SIMÕES DA COSTA
 ---
-Experiência: Estudante na Universidade de Marília (UNIMAR)
+# Experiência: 
+Estudante na Universidade de Marília (UNIMAR)
 
-#Sexo: Masculino
+# Sexo: 
+Masculino
+
+# Contato: 
+(XX) XXXXX-XXXX
+
+# 
 
