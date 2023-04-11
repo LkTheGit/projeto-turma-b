@@ -1,16 +1,16 @@
 ---
-LUCAS SIMÕES DA COSTA
+# LUCAS SIMÕES DA COSTA
 ---
-# Experiência: 
+## Experiência: 
 Estudante na Universidade de Marília (UNIMAR)
 
-# Genero: 
+## Genero: 
 Masculino
 
-# Contato: 
+## Contato: 
 (XX) XXXXX-XXXX
 
-# CEP
+## CEP
 Rua XXX XXXX XXXX
 
 
