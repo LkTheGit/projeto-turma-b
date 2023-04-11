@@ -12,5 +12,6 @@ Masculino
 
 # CEP
 Rua XXX XXXX XXXX
+\n
 Bairro XXXXX XX XXXXXXX
 
